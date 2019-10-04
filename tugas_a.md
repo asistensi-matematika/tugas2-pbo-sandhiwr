@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: Sandhi Wijaya Rosga
 
-NRP: `isi nrp disini`
+NRP: 06111840000031
 
 
 ## DESKRIPSI SOAL
@@ -47,7 +47,9 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+![PBO1](https://user-images.githubusercontent.com/49557695/66188052-87e3da00-e6b0-11e9-92e2-e4f428fb923f.png)
+![PBO2](https://user-images.githubusercontent.com/49557695/66188055-89ad9d80-e6b0-11e9-8b00-7354336fb7e0.png)
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
